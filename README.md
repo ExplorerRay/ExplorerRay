@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I am Ray Huang. ⚡
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ExplorerRay&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ExplorerRay&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ExplorerRay&theme=github_dark)
+
+- 📫 How to reach me: [![](https://img.shields.io/badge/-telegram-black?logo=telegram)](https://t.me/Explorer_Ray)
 
 <!--
 **ExplorerRay/ExplorerRay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +16,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
