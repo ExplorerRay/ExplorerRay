@@ -4,7 +4,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ExplorerRay&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ExplorerRay&theme=github_dark)
 
-- 📫 How to reach me: [![](https://img.shields.io/badge/-telegram-black?logo=telegram)](https://t.me/Explorer_Ray)
+- 📫 How to reach me: [![](https://img.shields.io/badge/-telegram-black?logo=telegram)](https://t.me/Explorer_Ray) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bjhuang/)
 
 <!--
 **ExplorerRay/ExplorerRay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
